@@ -10,7 +10,7 @@ Realtime Object Detection with YOLO in Built-in Camera
 ---
 | Inference | Def | 
 |----------|----------|
-| *yolo_main.py*   | Setup of Object Detection Using YOLO_v3   |    
+| *yolo_main.py*   | Inference Object Detection Using YOLO_v3   |    
 
 
 
